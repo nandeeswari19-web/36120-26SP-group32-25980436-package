@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 # NOTE: package names on (Test)PyPI are global - if "nba-draft-features" is taken, rename this
 # and the src/nba_draft_features folder to something more unique, e.g. "nba-draft-features-25980436".
 name = "nba-draft-features"
-version = "0.2.0"
+version = "0.3.0"
 description = "College-to-NBA feature engineering and data-cleaning utilities for predicting sustained NBA careers (36120 AT1, student 25980436)."
 readme = "README.md"
 requires-python = ">=3.10"
